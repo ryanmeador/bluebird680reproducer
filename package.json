@@ -1,0 +1,10 @@
+{
+  "name": "bluebird-reproducer",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "bluebird": "*",
+    "riak-js": "*",
+    "neo4j": "1.x"
+  }
+}
